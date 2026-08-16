@@ -1,0 +1,50 @@
+body {
+  margin: 0;                      /* remove default spacing */
+  height: 100vh;                  /* full screen height */
+  background-image: url("https://4kwallpapers.com/images/wallpapers/thick-forest-3840x2160-14776.jpg");
+  background-size: cover;        /* makes image cover full screen */
+  background-repeat: no-repeat;  /* stops repeating */
+  background-position: center;   /* center the image */
+}
+
+
+h1{
+    
+    margin-left : 800px;
+    color : white;
+    margin-top: 100px;
+
+}
+
+input{
+    width: 70%;
+
+    padding  : 12px 20px;
+    margin : 8px 0;
+    margin-left: 260px;
+    box-sizing : border-box;
+
+    border-bottom: 4px solid black;
+    box-shadow: 0cap;
+    
+}
+button{
+    background-color: #4caf50;
+    margin : auto;
+    color : white;
+    padding : 15px 100px;
+    text-align : center;
+    text-decoration: none;
+    display: inline-block;
+    font-size :16px;
+    margin-left:800px;
+}
+h2 {
+    color: white;
+
+    text-align: center;
+
+    margin-top: 40px;
+
+    font-size: 32px;
+}
